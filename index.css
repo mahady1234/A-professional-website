@@ -1,0 +1,41 @@
+#nr {
+    background-color: rgb(70, 43, 10);
+
+}
+
+.header-row {
+    display: flex;
+    align-items: center;
+    /* Vertically center image and text */
+    /* gap: 10px; */
+    /* Space between image and text */
+    justify-content: space-between;
+    /* Center the whole row horizontally */
+}
+
+.header-row h1 {
+    margin: 0;
+    /* Remove default margin */
+    text-align: center;
+}
+
+
+
+
+.header-row p {
+    color: rgb(242, 238, 238);
+    text-decoration: none;
+    font-size: 30px;
+    text-align: right;
+    text-decoration-color: aliceblue;
+}
+
+.row {
+    font- size: 20px;
+    color: white;
+    /* text-align: center; */
+    margin-top: 20px;
+
+
+
+}
